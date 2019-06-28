@@ -33,7 +33,7 @@ Vierde deel <br>
 Vijfde deel <br>
 <br>1: In de tabel('text') nieuwe column aan gemaakt genaamt ('shortabout'). Dit is een ingekorte versie van ('text'('aboutmarty')) Dit stuk text komt te staan in de Homepage waar eerst ('text'('dummytext')).
 <br>2: :Hover effect toegevoegt aan de Navigation.
-<br>3: Google-Fonts ge-importeert en gebruikt door de text die word ge ('echo')'d in een <div> te zetten met de propertie ('font-family').
+<br>3: Google-Fonts ge-importeert en gebruikt door de text die word ge ('echo')'d in een (div) te zetten met de propertie ('font-family').
 <br>4: Logo image in de Navigation rond gemaakt.
 <br>5: Login en Register ge-styled. (Niks special ervan gemaakt).
   
