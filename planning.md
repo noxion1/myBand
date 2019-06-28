@@ -36,6 +36,7 @@ Vijfde deel
 3: Google-Fonts ge-importeert en gebruikt door de text die word ge ('echo')'d in een <div> te zetten met de propertie ('font-family').
 4: Logo image in de Navigation rond gemaakt.
 5: Login en Register ge-styled. (Niks special ervan gemaakt).
+  
 
 
 
