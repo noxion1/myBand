@@ -27,8 +27,8 @@ Derde deel
 Vierde deel 
 1: Nieuwe .php file gemaakt genaamt 'tracks.php' Dit is de pagina over de tracks van Marty Robbins(Niet alle tracks staan erin want het waren er te veel om handmatig in de database neer te zetten).
 2: tabel ('tracks') aangemaakt. Dit is een uitgebreide versie van de tabel ('songs'). Hier staan veel meer tracks in dan in de tabel ('songs').
-3: Heb <hr> toegevoegt. (Dit is een rechte lijn van links naar rechts van 1px breed.) om een devider te krijgen tussen de "tracks". Deze <hr> staat in de php loop waardoor na elke track die word ge-displayed een <hr> komt te staan.
-4: <hr> ook gebruikt op Homepage bij de ('songs') en op elke pagina gebruikt net onder de Navigation bar.
+3: Heb (hr) toegevoegt. (Dit is een rechte lijn van links naar rechts van 1px breed.) om een devider te krijgen tussen de "tracks". Deze (hr) staat in de php loop waardoor na elke track die word ge-displayed een (hr)komt te staan.
+4: (hr) ook gebruikt op Homepage bij de ('songs') en op elke pagina gebruikt net onder de Navigation bar.
 
 Vijfde deel 
 1: In de tabel('text') nieuwe column aan gemaakt genaamt ('shortabout'). Dit is een ingekorte versie van ('text'('aboutmarty')) Dit stuk text komt te staan in de Homepage waar eerst ('text'('dummytext')).
