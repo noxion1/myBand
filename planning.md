@@ -3,7 +3,7 @@
 
 Opgedeelt in stukken.
 
-Eerste deel 
+Eerste deel <br>
 1: Beginnen met het design maken in axure, kijken of alles past en er goed uitziet(Kleuren, font-size, plaatjes, text).
 2: Homepage maken voor Marty Robbins. Begonnen met Navigation bar(About-Marty, Albums, Tracks, Home, Register, Login).
 3: Div boxes toegevoegt. hier komt de text en de plaatjes in. (Begonnen met plaatjes uit een img folder halen inplaats van de database, om te kijken of het de goede grote ect heeft). Het zelfde geld voor de text in de Homepage.
